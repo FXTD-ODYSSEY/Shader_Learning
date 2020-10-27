@@ -1,0 +1,56 @@
+Here's a list of resources that you can use to continue learning about shaders.
+
+
+Books
+---------------------------------
+
+The Cg Tutorial: The Definitive Guide to Programmable Real-Time Graphics by Randima Fernando
+	- this one is great for beginners.  It starts out at a very basic level.
+
+Shaders for Game Programmers and Artists by Sebastien St-Laurent
+	- focused on using ATi's RenderMonkey for shader writing - discusses some very cool techniques!
+
+The COMPLETE Effect and HLSL Guide by Sebastien St-Laurent
+	 - a nice reference manual for HLSL
+
+GPU Gems 1 and 2 edited by Matt Pharr and Randima Fernando
+	- cover some very advanced tenqiues
+
+Shader X Series by Wolfgang Engel
+	- cover a broad range of shader topics
+
+
+
+
+Web Sites
+---------------------------------
+
+http://www.bencloward.com/resources_shaders.shtml
+	- my web site - lots of free shaders to download
+
+http://ati.amd.com/developer/techpapers.html
+	- ATi's web site - lots of presentations here on shaders
+
+http://developer.nvidia.com/object/effects_docs_by_date.html
+	- Nvidia's web site - lots of presentations here on shaders
+
+http://msdn.microsoft.com/library/default.asp?url=/library/en-us/directx9_c/dx9_graphics_reference_effects.asp
+	- Microsoft's web site - lots of HLSL reference here
+
+http://www.jistyles.com/main.php?id=doc&page=hlsl
+	- Joel Styles' shader site
+
+
+
+Software
+---------------------------------
+
+http://developer.nvidia.com/object/fx_composer_home.html
+	- Nvidia's FXComposer - IMO the best editor for HLSL shaders - comes with lots of examples
+
+http://ati.amd.com/developer/rendermonkey/index.html
+	- ATi's RenderMonkey - another tool for creating HLSL shaders
+
+http://www.lumonix.net/frames_shaderfx.html
+	- ShaderFX - a node-based editor for creating HLSL shaders in Max
+
